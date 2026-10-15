@@ -1,5 +1,9 @@
 # virtuoso-data-mongodb
 
+> **Archived.** This library moved to [`positivinh/virtuoso`](https://github.com/positivinh/virtuoso/tree/main/virtuoso-data-mongodb),
+> with its history, and is built and released there from 2.0.0 on. Its groupId and artifactIds are unchanged. This
+> repository is read-only; open issues and pull requests on `positivinh/virtuoso`.
+
 Software factory components for persistence with MongoDB
 
 ## Commands
